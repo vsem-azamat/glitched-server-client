@@ -1,0 +1,13 @@
+# --- Rust files ---
+*.rs.bk
+target/
+Cargo.lock
+
+# --- Python files ---
+venv/
+*.pyc
+__pycache__/
+*.pyo
+
+# --- Other files ---
+.vscode/
